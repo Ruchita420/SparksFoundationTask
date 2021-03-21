@@ -1,7 +1,8 @@
 # THE SPARKS FOUNDATION
 # THE SPARKS FOUNDATION DATA SCIENCE AND BUSINESS ANALYTICS TASK 
 # TASK 6:PREDICTION USING DECISION TREE ALGORITHM
-# 
+# Create the Decision tree classifier and visualize it graphically.
+# The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 # BY-RUCHITA SIDAR
 
 
